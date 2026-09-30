@@ -1,0 +1,45 @@
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Unneeded projects
+/tasm-qemu/
+/lab1/
+/lab2/
+/TASM/
+/TC/
+
+# DOS disk images
+exchange.img
+msdos.img
+
+# Build artifacts
+*.obj
+*.o
+*.exe
+*.com
+*.map
+*.lst
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Editors / IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
